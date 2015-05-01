@@ -1,10 +1,10 @@
-package org.swing.gui.complete.window;
+package elroy.codefactory.swing.gui.complete.window;
 
 import javax.swing.JFrame;
 
-public class Frame extends JFrame {
+public class ElroyFrame extends JFrame {
 
-	public Frame(String frame) {
+	public ElroyFrame(String frame) {
 
 		super(frame);
 
