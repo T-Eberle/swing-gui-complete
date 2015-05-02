@@ -1,8 +1,5 @@
 language: java
-<<<<<<< HEAD
 
 before_install:
   - "export DISPLAY=:99.0"
   - "sh -e /etc/init.d/xvfb start"
-=======
->>>>>>> d25ed58475c52ac6c301432ea1b5ba5f10378a14
